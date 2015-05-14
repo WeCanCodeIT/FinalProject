@@ -34,20 +34,20 @@ body {
     margin-top:0px;
     margin-bottom:0px;
     font-family: 'Ceviche One', cursive;
-    font-size:600%;
+    font-size:500%;
     padding-top:2%;
     line-height:50px;
 }
 #tagline {
     text-align: center;
-    font-size:175%;
+    font-size:120%;
     color:#ffffff;
     font-family: 'Roboto', sans-serif;
 }
 div.page-header {
     background-color:#000000;
     margin-top:0px;
-    margin-bottom:1%;
+    margin-bottom:0%;
 }
 body {
     padding-top:0px;
@@ -117,4 +117,13 @@ div.container-fluid {
 #thumbPic {
     width:365px;
     height:243px;
+}
+.thumbnail {
+    border-style:solid;
+    border-width:2px;
+    border-color:#000000;
+}
+#navbar {
+    background-color: #eeeeee;
+    margin-bottom:2%;
 }
