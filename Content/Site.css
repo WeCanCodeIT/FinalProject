@@ -54,20 +54,15 @@ body {
     padding-bottom:0px;
     background-color:#646464;
 }
-
-footer {
+p#foot {
     background-color:#000000;
-    color:white;
-    margin-bottom:0px;
+    padding-left:25px;
+    color:#ffffff;
     padding-top:1%;
-    padding-bottom:1%;
-    margin-top:2%;
-    width:100%;
-    position:relative; 
     
-    
-  
+    position:relative;
 }
+
 .issue-card {
     background-color:#646464;
     margin-top:1%;
@@ -117,13 +112,15 @@ footer {
     /*width: 100%;*/
 }
 #thumbPic {
-    width:365px;
-    height:243px;
+    width:100%;
+    
 }
 .thumbnail {
     border-style:solid;
     border-width:2px;
     border-color:#000000;
+    margin-top:2%;
+    
 }
 #navbar {
     background-color: #eeeeee;
@@ -132,3 +129,4 @@ footer {
 #navbar a {
     color:#000000;
 }
+
