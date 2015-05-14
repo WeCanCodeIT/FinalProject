@@ -32,9 +32,17 @@ body {
     background-color:#000000;
     color:white;
     margin-top:0px;
+    margin-bottom:0px;
     font-family: 'Ceviche One', cursive;
     font-size:600%;
-    padding-top:0px;
+    padding-top:2%;
+    line-height:50px;
+}
+#tagline {
+    text-align: center;
+    font-size:175%;
+    color:#ffffff;
+    font-family: 'Roboto', sans-serif;
 }
 div.page-header {
     background-color:#000000;
