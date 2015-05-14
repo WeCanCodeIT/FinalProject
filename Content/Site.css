@@ -31,8 +31,10 @@ body {
     text-align:center;
     background-color:#000000;
     color:white;
-    padding-top:2%;
     margin-top:0px;
+    font-family: 'Ceviche One', cursive;
+    font-size:600%;
+    padding-top:0px;
 }
 div.page-header {
     background-color:#000000;
